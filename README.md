@@ -2,7 +2,7 @@
 ## Image
 ![Croduino Damba image]
 (https://d3s5r33r268y59.cloudfront.net/33091/products/thumbs/2015-08-06T21:54:56.980Z-DSC_4643.jpg.2560x2560_q85.jpg)
-[Croduino Damba(100016)] (http://e-radionica.com/en/croduino-damba.html)
+[Croduino Damba(100016)] (https://e-radionica.com/en/croduino-damba.html)
 
 ## Description and details
 The Croduino Damba is a very small Arduino compatible board. It is sized just 22 x 26 mm (0.9 x 1 inch) and features a CR1220 battery onboard so it easily becomes a wearable. It is based on Attiny85 microcontroller which runs an Arduino bootloader.
@@ -27,7 +27,7 @@ Files have been arranged into folders for navigating between different versions 
 Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. tParts and bParts is not used.
 
 ## Docs
-- [Croduino Damba product page] (http://e-radionica.com/en/croduino-damba.html)
+- [Croduino Damba product page] (https://e-radionica.com/en/croduino-damba.html)
 
 ## Board versions
 - v1.0 - inital version
